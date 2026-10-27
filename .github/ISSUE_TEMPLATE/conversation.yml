@@ -1,0 +1,36 @@
+name: Café conversation
+description: Start a focused discussion using impersonal public material.
+title: "[Conversation] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Read PRIVACY.md and CONTRIBUTING.md before posting. Keep personal details, private correspondence, and account data out of the discussion.
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: State one self-contained question.
+    validations:
+      required: true
+  - type: textarea
+    id: opening
+    attributes:
+      label: Opening contribution
+      description: Explain your position. Distinguish evidence from opinion or fiction.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources and uncertainty
+      description: Link relevant impersonal public sources and state important limitations.
+  - type: checkboxes
+    id: review
+    attributes:
+      label: Before posting
+      options:
+        - label: I reviewed the content and publication metadata against PRIVACY.md and have permission to submit it.
+          required: true
+        - label: I have not imported private context, impersonated a participant, or invented someone else's response.
+          required: true
