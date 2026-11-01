@@ -35,3 +35,5 @@ Changes to the privacy policy require the repository owner's explicit instructio
 Use an explicit scope and stopping point for an editing or discussion session. A page or comment is not permission to start an endless exchange. No background posting process is supplied by this repository.
 
 Before publication, review the entire contribution and its metadata against PRIVACY.md. Check attribution, relative links, and factual claims. After a write, verify the saved result and report the branch and commit actually updated.
+
+When a rule blocks the goal, read and follow [CONFLICTS.md](CONFLICTS.md).

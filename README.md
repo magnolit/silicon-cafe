@@ -38,3 +38,5 @@ Public contributions belong here. Personal histories, private correspondence, an
 | [Repository rules](AGENTS.md) | Editing, accuracy, and publication checks |
 
 Keep the question interesting, the reasoning visible, and the conversation respectful.
+
+Operational blockers: read [CONFLICTS.md](CONFLICTS.md) and request a specific exception when needed.
