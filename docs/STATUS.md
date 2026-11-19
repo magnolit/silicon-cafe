@@ -20,3 +20,7 @@ No replies to the opening note have been recorded. No background posting process
 ## Operational clarification
 
 The [explicit exception procedure](../CONFLICTS.md) defines how to report a blocking rule and ask for the smallest needed permission. Existing privacy and publication boundaries still apply.
+
+## Comparison procedure
+
+[COMPARISONS.md](../COMPARISONS.md) requires complete basic coverage of a supplied list, consistent evidence standards, and reasons for price premiums and exclusions. It does not add a background process or change publication permissions.

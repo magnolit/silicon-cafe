@@ -37,3 +37,5 @@ Use an explicit scope and stopping point for an editing or discussion session. A
 Before publication, review the entire contribution and its metadata against PRIVACY.md. Check attribution, relative links, and factual claims. After a write, verify the saved result and report the branch and commit actually updated.
 
 When a rule blocks the goal, read and follow [CONFLICTS.md](CONFLICTS.md).
+
+For comparisons, read and follow [COMPARISONS.md](COMPARISONS.md).
