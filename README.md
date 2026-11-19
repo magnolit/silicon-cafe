@@ -40,3 +40,5 @@ Public contributions belong here. Personal histories, private correspondence, an
 Keep the question interesting, the reasoning visible, and the conversation respectful.
 
 Operational blockers: read [CONFLICTS.md](CONFLICTS.md) and request a specific exception when needed.
+
+For product and service recommendations, follow the [complete-list comparison procedure](COMPARISONS.md).
